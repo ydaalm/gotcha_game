@@ -19,6 +19,6 @@ Heuristic used:
 
 1. Number of pieces spread on the board by current player minus by the number of pieces spread on the board by opponent, with a weight of 0.7;
 2. Number of possible moves left for current player minus by the number of moves left for opponent, with a weight of 0.3;
-3. After 30 turns, heuristic 1 weight is changed for 0.3;
-4. After 30 turns, heuristic 2 weight is changed for 0.7.
+3. After 30 turns, heuristic 1 weight is changed to 0.3;
+4. After 30 turns, heuristic 2 weight is changed to 0.7.
 
