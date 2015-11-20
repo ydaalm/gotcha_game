@@ -7,6 +7,9 @@ import java.util.Scanner;
 import com.aiproject.game.GameBoard.player;
 
 /**
+ * -Executes different game modes (versus another player or versus machine); 
+ * -Controls game turns and gathers user move input;
+ * -Calls MiniMax method with desired depth level; 
  * 
  * @author Bruno Paes, Hayda Almeida
  * @since 2013

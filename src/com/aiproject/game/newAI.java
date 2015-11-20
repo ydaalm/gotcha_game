@@ -7,6 +7,10 @@ import java.util.List;
 import com.aiproject.game.GameBoard.player;
 
 /**
+ * Implements MiniMax algorithm (MiniMax). 
+ * Methods to: 
+ * -Score a state according to heuristic evaluation (getHeuristic);
+ * -Convert suggested move into string (getMoveString)
  * 
  * @author Hayda Almeida
  * @since 2013

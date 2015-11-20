@@ -10,6 +10,13 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
+ * Methods to: 
+ * -manage the game board (print, initialize);
+ * -handle and execute user moves (isValidInstruction, getArrayInstruction, 
+ * openSlots, move, movePiece, getArrayInstruction, countPieces);
+ * -execute a deep copy of the board object (deepCopy);
+ * -check the goal state (end of game -isGoalState);
+ * -check available moves for each player (getPossibleMoves);
  * 
  * @author Bruno Paes
  * @since 2013
